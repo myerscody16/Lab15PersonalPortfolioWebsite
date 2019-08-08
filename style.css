@@ -1,0 +1,35 @@
+div{
+    text-align: center;
+    padding: Width 90%;
+    background-color: green;
+    color:white;
+}
+div1{
+    color:green;
+    float: left;
+    margin: 0 1.5%;
+    width: 40%;
+}
+#p1{
+    text-align: right;
+}
+div2{
+    color:green;
+    text-align: top;
+    float: right;
+    margin: 0 3%;
+    width: 40%;
+}
+#p2{
+    color:green;
+    text-align: top;
+    float: right;
+    margin: 0 3%;
+    width: 40%;
+}
+div4{
+    float:center;
+    text-align: center;
+    margin:0 3%;
+    width:20%;
+}
