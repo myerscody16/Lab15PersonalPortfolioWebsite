@@ -29,7 +29,7 @@ div2{
     width: 40%;
 }
 div4{
-    float:center;
+    align-items: center;
     text-align: center;
     margin:0 3%;
     width:20%;
